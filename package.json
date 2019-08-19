@@ -1,0 +1,14 @@
+{
+  "name": "flicker-public-api",
+  "version": "1.0.0",
+  "description": "flickr public API feed ",
+  "scripts": {
+    "server" : "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
